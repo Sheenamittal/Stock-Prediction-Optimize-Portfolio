@@ -1,4 +1,4 @@
-##Stock Predictor: Optimizing Portfolios & Predicting Trends
+#Stock Predictor: Optimizing Portfolios & Predicting Trends
 #Overview
 This project is a comprehensive stock analysis and portfolio optimization tool, designed to provide insights into stock trends, correlations, and optimal portfolio allocations. It also includes a predictive model for forecasting stock prices using an LSTM model. The application is built using Python and integrates several powerful libraries, including TensorFlow, yfinance, and Streamlit.
 
