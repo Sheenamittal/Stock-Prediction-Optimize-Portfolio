@@ -21,7 +21,7 @@ quantities_input = st.text_input('Enter Quantities (comma-separated)', '10,20,15
 quantities_input = [int(quantity.strip()) for quantity in quantities_input.split(',')]
 
 start = '2012-01-01'
-end = '2024-03-31'
+end = '2024-04-06'
 
 data = {}
 
